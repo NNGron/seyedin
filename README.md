@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Seyedin (GitHub: [seyedin](https://github.com/seyedin)), a passionate software developer who loves creating innovative solutions. My journey in coding has been fueled by a desire to solve real-world problems and make technology accessible to everyone.
+I'm Seyedin (GitHub: [seyedin](https://github.com/sseyedein)), a passionate software developer who loves creating innovative solutions. My journey in coding has been fueled by a desire to solve real-world problems and make technology accessible to everyone.
 
 <p align="center">
   <img src="https://github.com/seyedin/seyedin/blob/main/banner.png?raw=true alt="Banner"/>
