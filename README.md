@@ -1,15 +1,14 @@
 ### Hi there! 👋
 
-I'm Seyedin (GitHub: [seyedin](https://github.com/SSeyedein)), a passionate software developer who loves creating innovative solutions. My journey in coding has been fueled by a desire to solve real-world problems and make technology accessible to everyone.
+I'm Seyedein (GitHub: [@SSeyedein](https://github.com/SSeyedein)), a passionate Java & Backend Developer who loves building scalable solutions and solving real-world problems.
 
 <p align="center">
-  <img src="https://https://github.com/SSeyedein/blob/main/banner.png?raw=true alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/SSeyedein/SSeyedein/main/banner.png" alt="Banner"/>
 </p>
-
 
 ## About Me
 
-I specialize in Java development and have a keen interest in building web applications. Currently, I am working on various projects that challenge my skills and expand my knowledge in java.
+I specialize in Java development, Spring Ecosystem, and enterprise web applications. I enjoy tackling complex architectural challenges and continuously expanding my backend engineering skills.
 
 ## Skills & Technologies
 
@@ -21,9 +20,10 @@ I specialize in Java development and have a keen interest in building web applic
 
 ## Top Projects
 
-- [Home Services](https://github.com/SSeyedein/homeService): Home Services is a Java-based web platform that connects customers with service experts. Built with Spring Boot, it features role-based access control, secure JWT authentication, payment integration, and automated rating adjustments for reliable transactions.
-- [Educational_Management_System](https://github.com/SSeyedein/Educational_Management_System): A platform to manage educational entities, including administrators, teachers, and students.
+- 🛠️ **[Home Services](https://github.com/SSeyedein/homeService)**: A Java-based backend platform connecting customers with service experts. Built with Spring Boot, featuring role-based access control, secure JWT authentication, payment integration, and automated rating adjustments.
+- 🎓 **[Educational Management System](https://github.com/SSeyedein/Educational_Management_System)**: A comprehensive platform designed to manage educational entities, including administrators, teachers, and students.
 
 ## Connect with Me
 
-{www.linkedin.com/in/seyedein}
+- 💼 **LinkedIn**: [linkedin.com/in/seyedein](https://www.linkedin.com/in/seyedein)
+- 🐙 **GitHub**: [@SSeyedein](https://github.com/SSeyedein)
